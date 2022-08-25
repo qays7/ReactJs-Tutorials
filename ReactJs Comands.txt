@@ -1,0 +1,3 @@
+npm install --save radium . to activate pesudue classes and media query whithout css file.
+
+npm install --save styled-components
